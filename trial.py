@@ -11,7 +11,7 @@ def display_product_info():
     mycon = co.connect(
         host='localhost',
         user='root',
-        passwd='Dhairya@29',
+        passwd='Sarvesh@27',
         database='Shubham_Collection'
     )
     # Create a cursor object
