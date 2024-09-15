@@ -6,7 +6,7 @@ def enter_data():
 
     mycon=co.connect(host='localhost',
                         user='root',
-                        passwd='Dhairya@29' ,
+                        passwd='Sarvesh@27' ,
                         database='Shubham_Collection'
                     )
 
